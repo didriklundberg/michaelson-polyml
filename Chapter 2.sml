@@ -1,3 +1,5 @@
+(* OMITTED: Exercises 1-5, 8. *)
+
 ~2; (* This is a negative integer. *)
 3E3; (* This is 3000.  *)
 
@@ -37,6 +39,4 @@ real 99 > 89.9;
 real 55 * 100.55;
 
 floor (real 77 * 120.23);
-
-(* Continue from h when you have time... *)
 

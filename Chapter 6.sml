@@ -1,3 +1,5 @@
+(* OMITTED: Exercise 1. *)
+
 (* 2a *)
 
 local

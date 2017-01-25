@@ -1,3 +1,5 @@
+(* OMITTED: Exercises 1-4. *)
+
 (* 5a *)
 
 fun factorial 0 = 1 |

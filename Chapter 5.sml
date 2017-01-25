@@ -1,3 +1,5 @@
+(* OMITTED: Exercises 1-4. *)
+
 (* 5a *)
 
 fun intlist 0 = [] |
@@ -103,7 +105,7 @@ fun one_ful_prop _ [] = false |
 
 (* 9d *)
 
-fun bigger_fortytwo list = bigger_fortytwo (fn n => n>42) list;
+fun bigger_fortytwo_b list = one_ful_prop (fn n => n>42) list;
 fun is_banana_b list = one_ful_prop (fn s => s="banana") list;
 
 (* 10a *)
